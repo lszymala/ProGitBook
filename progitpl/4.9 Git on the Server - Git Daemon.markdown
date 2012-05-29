@@ -1,6 +1,6 @@
 ## Git Demon ##
 
-Dla dostępu publicznego, nieautoryzowanego i tylko do odczytu do Twojego projektu, możesz pominąć protokół HTTP i zacząć używać protokołu Git. Główną przyczyną użycia protokołu Git jest jego szybkość działania. Protokół Git jest znacznie bardziej wydajny i szybszy niż protokół HTTP, wic użycie go zaoszczdzi czas użytkowników.
+Dla dostępu publicznego, nieautoryzowanego do Twojego projektu, możesz pominąć protokół HTTP i zacząć używać protokołu Git. Główną przyczyną użycia protokołu Git jest jego szybkość działania. Protokół Git jest znacznie bardziej wydajny i szybszy niż protokół HTTP, wic użycie go zaoszczdzi czas użytkowników.
 
 Idąc dalej, dla dostpu nieautoryzowanego i tylko do odczytu . Jeśli używasz projektu na serwerze poza zaporą, powinieneś stosować ten protokół jedynie do projektów, które są publicznie widoczne dla świata. Jeśli serwer, którego używasz znajduje się wewnątrz sieci z zaporą, możesz również użyć go do projektów używanych przez wiele ludzi i komputerów (ciągła integracja lub budowa serwera) mających dostp tylko do odczytu, jeśli nie chcesz dodawać klucza SSH dla każdego.
 
